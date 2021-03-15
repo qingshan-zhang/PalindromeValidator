@@ -2,7 +2,7 @@
 
 This is a small program to verify and count the number of valid input lines based on criteria for each line:
 
-- Contains at least a 4 non duplicated characters palindrome, which does not appear inside square bracket "[]"
+- Contains at least one  palindrome constructed by 4 non duplicated characters, which does not appear inside square bracket "[]"
 
 Due to the ambiguity of the requirements, there are some assumptions made that:
 
