@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LineValidatorTest" tests="38" skipped="0" failures="0" errors="0" timestamp="2021-03-14T17:29:17" hostname="C02Z55A2LVDQ.corp.qc" time="0.098">
+  <properties/>
+  <testcase name="palindromeInBracket()" classname="LineValidatorTest" time="0.063"/>
+  <testcase name="shortLine()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="outterStringHasPalindrome()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="mixNestedBracket()" classname="LineValidatorTest" time="0.008"/>
+  <testcase name="nestedBracket()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="allDuplicateString()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="sameCharacters()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="emptyLine()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="outterStringEmpty()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="palindromeAfterDuplicateStrings()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="emptyGroup()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="hadPalindrome()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="spaceLine()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="caseDifference()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="noneHasPalindrome()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="noOutterString()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="palindromeAtBegining()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="bothHavePalindrome()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="validLineContainSpace()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="palindromeWithSpecialCharactersAndDigits()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="oneBracket()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="palindromeOutOfBracket()" classname="LineValidatorTest" time="0.001"/>
+  <testcase name="nonClosingBracket()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="duplicateString()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="noBracket()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="shortStringOutSide()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="invalidLineContainSpace()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="allCharactersInBucket()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="shortString()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="bracketAtEnd()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="nullValue()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="bracketContainsPalindrome()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="stringWithUnclosedBracket()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="outterStringHasNoPalindrome()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="mixedBracket()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="palindromeAtEnd()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="bracketAtBegining()" classname="LineValidatorTest" time="0.0"/>
+  <testcase name="multipleBracket()" classname="LineValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
