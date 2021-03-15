@@ -8,7 +8,7 @@ Due to the ambiguity of the requirements, there are some assumptions made that:
 
 - For any characters outside of a closing bracket, considering any bracket character (including empty space) as valid char to verify the palindrome pattern. eg: $aa$ is considered a valid pattern
 - Only the most inner characters in a nested bracket would be considered as chars in a bracket. eg: "ab[cddc[abc]]asd" is considered as valid pattern because "cddc" is considered as characters outside of bracket
-- For non closing bracket, consider as characters outside of bracket. eg: "abc]deffe[" is considered as valid pattern because effe is considered as not inside a bracket.
+- For non closing bracket, consider as characters outside of bracket. eg: "abc]deffe[" is considered as valid pattern because "effe" is considered as not inside a bracket.
 
 ## Build and run the program
 
